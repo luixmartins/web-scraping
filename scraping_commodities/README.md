@@ -1,6 +1,11 @@
 # COLETA AUTOMATIZADA DE DADOS PARA CRIAÇÃO DE DATASETS SOBRE AS PRINCIPAIS COMMODITIES DO BRASIL 
 
-### Projeto criado afins de estudos.
+### Principais commodities
+* Soja 
+* Milho 
+* Trigo 
+* Café 
+* Petróleo 
 
 
 
