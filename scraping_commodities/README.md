@@ -5,6 +5,8 @@
 * Milho 
 * Trigo 
 * Café 
+* Boi gordo 
+* Algodão 
 * Petróleo 
 
 
